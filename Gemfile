@@ -14,10 +14,6 @@ gem 'devise', '~> 3.4.1'
 gem 'simple_form', '~> 3.0.2'
 gem 'spring',        group: :development
 
-group :development, :test do
-	gem 'sqlite3'
-end
-
 group :production do
 	gem 'pg', '~> 0.18.1'
 	gem 'rails_12factor', '~> 0.0.3'
