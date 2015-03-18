@@ -1,0 +1,2 @@
+A wikipedia clone in rails.
+Sample app: wiki-rails.herokuapp.com
